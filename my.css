@@ -3,6 +3,12 @@ hr{
   height:3px;
   background-color: white;
 }
+.music1{
+  background-color:white;
+  height:fit-content;
+  width:20%;
+  box-shadow:7px 7px 7px darkblue;
+}
 #new{
     border-radius:20%;
 }
@@ -266,6 +272,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
