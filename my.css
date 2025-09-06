@@ -31,7 +31,7 @@ hr{
   text-align: center;
   border: none;
   border-radius: 10px;
-  box-shadow: 7px 7px rgb(85, 67, 152);
+  box-shadow: 7px 7px 7px rgb(85, 67, 152);
   overflow-wrap: break-word;
   min-width: 25%;
   flex: 11 auto;
@@ -46,7 +46,7 @@ hr{
   justify-content: center;
   text-align: center;
   border-radius: 15px;
-  box-shadow: 7px 7px rgb(85, 67, 152);
+  box-shadow: 7px 7px 7px rgb(85, 67, 152);
   overflow-wrap: break-word;
   min-width: 25%;
   flex: 11 auto;
@@ -62,7 +62,7 @@ hr{
   justify-content: center;
   text-align: center;
   border-radius: 15px;
-  box-shadow: 7px 7px rgb(85, 67, 152);
+  box-shadow: 7px 7px 7px rgb(85, 67, 152);
   overflow-wrap: break-word;
   flex: 11 auto;
   min-width:25%;
@@ -261,6 +261,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
