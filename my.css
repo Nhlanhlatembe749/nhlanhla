@@ -6,23 +6,25 @@ hr{
 .music1{
   background-color:purple;
   height:fit-content;
-  width:30%;
+  width:45%;
   box-shadow:7px 7px 7px darkblue;
+  border-radius:15%;
 }
 .music3{
   background-color:purple;
   height:fit-content;
-  width:30%;
+  width:45%;
   box-shadow:7px 7px 7px darkblue;
+  border-radius:15%;
 }
 
 .music{
-  height:fit-content;
+  height:30%;
   width:100%;
   box-shadow:5px 5px 5px darkblue;
   display:flex;
   flex:flex-rap;
-  gap:15%;
+  gap:5%;
 }
 #new{
     border-radius:20%;
@@ -287,6 +289,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
