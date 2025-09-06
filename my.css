@@ -8,7 +8,7 @@ hr{
 }
   
 .container{
-  background-color: whitesmoke;
+  background-color: white;
   width:90%;
   display:flex;
   flex-wrap:wrap;
@@ -261,6 +261,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
