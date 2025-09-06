@@ -6,7 +6,10 @@ hr{
 #new{
     border-radius:20%;
 }
-  
+ #btn1{
+   background-color:darkblue;
+   color:white;
+ }
 .container{
   background-color: white;
   width:90%;
@@ -263,6 +266,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
