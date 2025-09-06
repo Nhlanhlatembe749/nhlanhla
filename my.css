@@ -4,9 +4,7 @@ hr{
   background-color: white;
 }
 #new{
-  height:50px;
-  width:50px
-    border-radius:20px;
+    border-radius:20%;
 }
   
 .container{
@@ -263,5 +261,6 @@ border-radius: 10px;
 
 
   
+
 
 
