@@ -3,6 +3,11 @@ hr{
   height:3px;
   background-color: white;
 }
+#new{
+  height:50px;
+  width:50px
+    border-radius:20px;
+}
   
 .container{
   background-color: whitesmoke;
@@ -258,4 +263,5 @@ border-radius: 10px;
 
 
   
+
 
