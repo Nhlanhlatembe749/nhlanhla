@@ -203,6 +203,8 @@ border-radius: 10px;
   height: 55px;
   background-color: white;
   margin-top: 6%;
+  display:flex;
+  column-gap:11px;
   
 }
 .content2{
@@ -261,6 +263,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
