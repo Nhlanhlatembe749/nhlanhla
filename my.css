@@ -193,9 +193,10 @@ border-radius: 10px;
 .content{
   width: 30%;
   height: fit-content;
-  background-color:red;
+  background-color:lightblue;
   margin-top: 6%;
   box-shadow: 10px 10px lightblue;
+  color:white;
 }
 .content1{
   width: 10%;
@@ -262,6 +263,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
