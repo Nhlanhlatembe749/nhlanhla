@@ -71,9 +71,17 @@ hr{
 .box1:hover{
   background-color:rgb(85, 67, 152); 
   width:30%;
-  transition:2s;
- 
-
+  transition:1s;
+}
+.box2:hover{
+  background-color:rgb(85, 67, 152); 
+  width:30%;
+  transition:1s;
+}
+.box3:hover{
+  background-color:rgb(85, 67, 152); 
+  width:30%;
+  transition:1s;
 }
 
 .box2:hover{
@@ -197,7 +205,7 @@ border-radius: 10px;
 .content{
   width: 30%;
   height: fit-content;
-  background-color: aquamarine;
+  background-color:light red;
   margin-top: 6%;
   box-shadow: 10px 10px lightblue;
 }
@@ -266,6 +274,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
