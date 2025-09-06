@@ -3,19 +3,42 @@ hr{
   height:3px;
   background-color: white;
 }
+.album{
+  background-color:purple;
+  height:100px;
+  width:80%;
+  broder-radius:5%;
+  box-shadow:5px 5px 5px darkblue;
+  padding:20px
+  gap:10%
+
+}
+.albu1{
+  background-color:white;
+  height:fit-content;
+  width:40%;
+  broder-radius:5%;
+}
+.album2{
+  background-color:white;
+  height:fit-content;
+  width:40%;
+  broder-radius:5%;
 .music1{
   background-color:purple;
   height:fit-content;
-  width:45%;
+  width:38%;
   box-shadow:7px 7px 7px darkblue;
-  border-radius:15%;
+  border-radius:10%;
+  color:white;
 }
-.music3{
+.music2{
   background-color:purple;
   height:fit-content;
-  width:45%;
+  width:38%;
   box-shadow:7px 7px 7px darkblue;
-  border-radius:15%;
+  border-radius:10%;
+  color:white;
 }
 
 .music{
@@ -289,6 +312,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
