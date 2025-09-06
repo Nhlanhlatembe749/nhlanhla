@@ -69,7 +69,9 @@ hr{
 
 }
 .box1:hover{
-  background-color: white;
+  background-color:rgb(85, 67, 152); 
+  width:30%;
+  transition:2s;
  
 
 }
@@ -263,6 +265,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
