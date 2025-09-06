@@ -9,6 +9,12 @@ hr{
   width:20%;
   box-shadow:7px 7px 7px darkblue;
 }
+.music{
+  height:fit-content;
+  width:100%;
+  box-shadow:5px 5px 5px darkblue;
+  display:flex;
+  flex:flex-rap;
 #new{
     border-radius:20%;
 }
@@ -272,6 +278,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
