@@ -15,8 +15,6 @@ hr{
   box-shadow:5px 5px 5px darkblue;
   display:flex;
   flex:flex-rap;
-  gap:10px;
-  padding:7px;
 }
 #new{
     border-radius:20%;
@@ -281,6 +279,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
